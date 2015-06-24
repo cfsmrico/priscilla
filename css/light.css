@@ -1,3 +1,7 @@
+#logo > h1 > a {
+  color: #555;	
+}
+
 /* light theme */
 body { 
   background: #EEE url(../images/light.png);
