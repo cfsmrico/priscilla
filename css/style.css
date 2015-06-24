@@ -88,7 +88,7 @@ header {
   height: 105px;}
 
 #logo { 
-  width: 280px;
+  width: 330px;
   float: left;
   height: 100px;
   background: transparent;
@@ -336,7 +336,7 @@ ul.sf-menu ul ul ul li:hover ul ul,ul.sf-menu ul ul ul li:focus ul ul,ul.sf-menu
 
 /* theming the menu */
 nav { 
-  width: 650px;
+  width: 600px;
   margin: 1px auto 0 auto;
   float: right;
   padding: 35px 0 0 0;} 
