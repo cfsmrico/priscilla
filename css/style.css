@@ -1,12 +1,12 @@
 @font-face { 
   font-family: Yanone Kaffeesatz; 
-    src: url('../fonts/YanoneKaffeesatz-Regular.eot'); 
+    src: url('../fonts/YanoneKaffeesatz-Regular.ttf'); 
     src: local(Yanone Kaffeesatz), url('../fonts/YanoneKaffeesatz-Regular.ttf'); 
 } 
 
 @font-face { 
   font-family: News Cycle; 
-    src: url('../fonts/NewsCycle-Regular.eot'); 
+    src: url('../fonts/NewsCycle-Regular.ttf'); 
     src: local(News Cycle), url('../fonts/NewsCycle-Regular.ttf'); 
 } 
 
